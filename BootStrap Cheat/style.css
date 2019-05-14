@@ -1,0 +1,135 @@
+#titleWrapper {
+  color: white;
+  position: absolute;
+  top: 175px;
+  padding-left: 0%;
+
+  right: 0;
+  left: 0;
+}
+
+body{
+
+}
+
+#ulList > li{
+  padding-left: 3vw;
+  padding-right: 3vx;
+}
+
+#ulList {
+
+}
+
+#navBack{
+    background-color: red;
+    position: absolute;
+    z-index: -1;
+
+    width: 100vw;
+    height: 100vh;
+
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+}
+
+#articlesCont{
+  padding-left: 20px;
+}
+#sideBar {
+  color: white;
+  padding-top: 40px;
+}
+
+
+
+#backW {
+
+  padding-top: 35px;
+
+}
+
+#redTest {
+  background-color: white;
+  width: 100vw;
+}
+
+#backP {
+  width: auto;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -2;
+
+
+
+  background-color: #151515;
+  position: absolute;
+}
+#whitee {
+
+
+  background-color: red;
+
+}
+#articlesRow {
+
+  color: white;
+  padding-top: 25px;
+  padding-bottom: 15px;
+  padding-left: 7px;
+}
+
+#articlesTitle {
+  padding-left: 3px;
+  font-size: 7vh;
+}
+
+#article2 {
+    padding-top: 20px;
+}
+
+#subText{
+    color: #afb1b3;
+    font-size: 2.5vw;
+}
+#navBarz {
+  width: 100%;
+
+  position: absolute;
+  z-index: 1;
+  overflow: auto;
+
+}
+
+.Titel {
+  font-size: 4.5vw;
+  line-height: 0.75;
+}
+
+#headerWrapper {
+  position: relative;
+}
+
+#navWrapper {
+  position: absolute;
+  right: 0;
+  left: 0;
+}
+
+#bannerWrapper {
+}
+
+#searchButton {
+  color:#8B8B8B;
+}
+
+
+#asider {
+  background-color: #EAEAEC;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
